@@ -1,0 +1,37 @@
+<xml>
+   <theme>Hello World</theme>
+   <template>Page1</template>
+   <author>ANM22</author>
+   <pageOptions>
+      <option>
+         <editorName>Background color</editorName>
+         <name>background-color</name>
+         <defaultValue>#fff</defaultValue>
+         <typeValue>color</typeValue>
+      </option>
+      <option>
+         <editorName>Title h1 color</editorName>
+         <name>h1-color</name>
+         <defaultValue>#000</defaultValue>
+         <typeValue>color</typeValue>
+      </option>
+      <option>
+         <editorName>Title h2 color</editorName>
+         <name>h2-color</name>
+         <defaultValue>#000</defaultValue>
+         <typeValue>color</typeValue>
+      </option>
+      <option>
+         <editorName>Title h3 color</editorName>
+         <name>h3-color</name>
+         <defaultValue>#000</defaultValue>
+         <typeValue>color</typeValue>
+      </option>
+      <option>
+         <editorName>Text color</editorName>
+         <name>p-color</name>
+         <defaultValue>#000</defaultValue>
+         <typeValue>color</typeValue>
+      </option>
+   </pageOptions>
+</xml>

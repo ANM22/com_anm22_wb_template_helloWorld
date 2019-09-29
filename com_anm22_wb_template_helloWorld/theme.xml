@@ -1,0 +1,23 @@
+<xml>
+   <theme>Hello World</theme>
+   <author>ANM22</author>
+   <version>1.2</version>
+   <defaultWebTemplate>template1</defaultWebTemplate>
+   <defaultEmailTemplate>template2</defaultEmailTemplate>
+   <templates>
+      <template>
+         <name>template1</name>
+         <page>template1</page>
+         <previewImage>themePreview.png</previewImage>
+         <noWeb>0</noWeb>
+         <email>0</email>
+      </template>
+      <template>
+         <name>template2</name>
+         <page>template2</page>
+         <previewImage>themePreview.png</previewImage>
+         <noWeb>1</noWeb>
+         <email>1</email>
+      </template>
+   </templates>
+</xml>
